@@ -81,6 +81,10 @@ Of course the more complex fraud detection system make more assumptions, possibl
 
 
 # Model selection
+Pros and cons of the model selected and why them
+
+
+
 Model selection: Model selection consists in selecting the prediction model that is expected to provide the best
 performances on future data. Steps: list of models, train on training data, take the best using cross-validation techniques,
 select the one with the highest performances.
@@ -111,6 +115,11 @@ We should handle the KFold to be coherent with the Time
 
 
 To read last chapter (6)
+
+
+How many data, missing, null etc. on the description of the dataset
+Tip: for good slides think that you design the slide in a way that you are able
+to discuss them even after one month or more
 
 
 [1] Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
