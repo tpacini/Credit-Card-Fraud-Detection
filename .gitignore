@@ -3,3 +3,5 @@ data/*
 appunti.md
 *.zip
 **/*.pdf
+**/*.png
+**/*.jpg
